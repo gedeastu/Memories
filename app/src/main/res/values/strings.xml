@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Memories</string>
+    <string name="home">
+        Home
+    </string>
+    <string name="search">
+        Search
+    </string>
+    <string name="profile">
+        Profile
+    </string>
+    <string name="tutup">
+        Kembali
+    </string>
+    <string name="logout">
+        Log out
+    </string>
+    <string name="tambah_hewan">
+        Tambah Hewan
+    </string>
+    <string name="try_again">
+        Try Again
+    </string>
+    <string name="error">
+        Error
+    </string>
+    <string name="title">
+        Title
+    </string>
+    <string name="desc">
+        Description
+    </string>
+    <string name="batal">
+        Batal
+    </string>
+    <string name="simpan">
+        Simpan
+    </string>
+    <string name="gambar">
+        Gambar %1$s
+    </string>
+    <string name="hapus">
+        Hapus
+    </string>
+    <string name="empty">
+        Empty Memory List
+    </string>
+    <string name="copyright">© 2024 Gede Astu Nugraha</string>
+</resources>
